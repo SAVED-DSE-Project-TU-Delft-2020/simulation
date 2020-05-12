@@ -2,7 +2,7 @@ import sys
 sys.path.append('..')
 
 from simulation.parameters import concept_A, concept_B, concept_C
-from simulation.model import get_range
+from simulation.model_1 import get_range
 
 def test_ranges():
 
