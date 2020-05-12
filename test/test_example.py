@@ -9,3 +9,5 @@ sys.path.append('..')
 #     assert get_range(concept_A) > 150000, 'Range of concept A is insufficient'
 #     assert get_range(concept_B) > 150000, 'Range of concept B is insufficient'
 #     assert get_range(concept_C) > 1500000, 'Range of concept C is insufficient'
+def hello_world():
+    pass
