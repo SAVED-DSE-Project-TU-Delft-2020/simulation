@@ -1,5 +1,5 @@
-import sys
-sys.path.append('..')
+# import sys
+# sys.path.append('..')
 
 # from tutorial_VV.parameters import concept_A, concept_B, concept_C
 # from tutorial_VV.model import get_range
